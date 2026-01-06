@@ -1,0 +1,13 @@
+id,from_email,subject,body,label
+1,boss@company.com,Submit report by EOD,Please send the Q3 sales report by 5pm today.,high
+2,newsletter@shop.com,Big Sale is here!,Get 50% off on all items this weekend.,low
+3,teamlead@company.com,Weekly sync tomorrow,Let's have our project sync at 11am. Share your updates.,medium
+4,alerts@bank.com,Unusual login attempt,We detected an unusual login. Verify immediately.,high
+5,hr@company.com,Holiday list attached,Please find the list of holidays for this year.,medium
+6,no-reply@social.com,New friend suggestions,Connect with people you may know.,low
+7,ceo@company.com,Board meeting today,Please join the board call at 6pm. Mandatory.,high
+8,events@college.edu,Tech talk tomorrow,Guest lecture at 3pm. Attendance optional.,medium
+9,promotions@brand.com,New arrivals in store,Check out our latest collection.,low
+10,security@company.com,Action required: password reset,Reset within 24 hours.,high
+11,admin@dept.edu,Lab maintenance schedule,Lab will be closed on Friday.,medium
+12,offers@shop.com,Exclusive coupons for you,Save more this week.,low

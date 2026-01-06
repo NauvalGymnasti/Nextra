@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+.streamlit/
+credentials.json
+token.json
+.env
+models/
+data/*.csv
+!data/sample_emails.csv
