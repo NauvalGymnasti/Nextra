@@ -8,7 +8,7 @@ from src.action_extractor import extract_actions
 from src.utils import clean_text_basic
 
 st.set_page_config(page_title="Smart Email Priority Sorter", layout="wide")
-st.title("📧 Smart Email Priority Sorter")
+st.title("📧 Nextra")
 
 # ===============================
 # LOGIN SECTION

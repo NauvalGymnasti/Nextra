@@ -26,4 +26,4 @@ def gmail_login():
     if "code" in params:
         flow.fetch_token(code=params["code"][0])
         st.session_state["gmail_creds"] = flow.credentials
-        st.experimental_rerun()
+        st.rerun()
