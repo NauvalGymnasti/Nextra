@@ -1,4 +1,4 @@
-# Smart Email Priority Sorter
+# Nextra
 
 ### Quick Start
 ```bash
@@ -28,7 +28,3 @@ Built with **Python, Streamlit, Gmail API, and SQLite.**
 ---
 
 ### ⚙️ Setup (Windows)
-```powershell
-git clone https://github.com/swarrajjoshi/smart-email-priority.git
-cd smart-email-priority
-./setup.ps1
