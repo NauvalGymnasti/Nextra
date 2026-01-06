@@ -22,7 +22,7 @@ def gmail_login():
 
     st.markdown(f"[🔐 Login with Google]({auth_url})")
 
-    params = st.query_params()
+    params = st.query_params
     if "code" in params:
         flow.fetch_token(code=params["code"][0])
         st.session_state["gmail_creds"] = flow.credentials
